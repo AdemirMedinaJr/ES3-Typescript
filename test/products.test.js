@@ -17,7 +17,7 @@ beforeEach(() => {
     code: 99,
     description: 'Macbook Pro Retina 2020',
     buyPrice: 4000.00,
-    sellPrice: 6000.00,
+    sellPrice: 8000.00,
     tags: ['tecnologia', 'macbook', 'apple', 'macOS'],
   }];
 });
